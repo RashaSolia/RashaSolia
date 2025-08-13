@@ -74,6 +74,6 @@ Welcome to my GitHub profile! I'm passionate about crafting responsive, engaging
 
 - 📧 **Email:** [rashasolia@gmail.com](mailto:rashasolia@gmail.com)
 - 🔗 **LinkedIn:** [linkedin.com/in/rashasolia1112](https://www.linkedin.com/in/rashasolia1112)
-- 💬 Feel free to reach out for collaborations, opportunities, or just to say hi!
+ 
 
  
