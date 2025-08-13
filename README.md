@@ -70,13 +70,6 @@ Welcome to my GitHub profile! I'm passionate about crafting responsive, engaging
 - Modern state management solutions
 - Progressive Web Applications (PWAs)
 
-### 📈 My Goals
-
-- 🎯 Contribute to open-source projects
-- 📚 Share knowledge through technical writing
-- 🤝 Collaborate with other developers on innovative projects
-- 🚀 Build applications that make a positive impact
-
 ### 📫 Let's Connect
 
 - 📧 **Email:** [rashasolia@gmail.com](mailto:rashasolia@gmail.com)
